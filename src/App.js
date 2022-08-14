@@ -2,7 +2,8 @@
 function App() {
   return (
     <div className="App">
-     Hello 
+     Hello Friends!!!
+     I Love U 
     </div>
   );
 }
